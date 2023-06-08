@@ -1,0 +1,6 @@
+{
+    "arrowParens": "always",
+    "printWidth": 80,
+    "singleuote": true,
+    "tabWidth": 2
+}
